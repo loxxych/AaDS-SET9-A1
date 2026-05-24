@@ -1,0 +1,8 @@
+[project]
+name = "set9-a1-plotter"
+version = "0.1.0"
+description = "Matplotlib chart generator for SET9_A1 string sorting measurements"
+requires-python = ">=3.9"
+dependencies = [
+    "matplotlib>=3.7",
+]
